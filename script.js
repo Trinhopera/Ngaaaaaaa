@@ -18,11 +18,11 @@ document.addEventListener('DOMContentLoaded', function() {
         "Ngày mới tới, vì eimmmm 🌸",
         "Hôm nay đi ăn chè nhaaaaa! ✨",
         "Chỉ cần em muốn đi đâu cũng được nhaaa! 🌟",
-        "Mỗi ngày chỉ cần em vuiiiiii! 🌈",
+        "Chè bớt ngọt ngon lesmmmm, đi khum! 🌈",
         "Người ta bảo Trái đất quay quanh mặt trời, thế thì Mặt Trời quay quanh Ngaaaaaa! 💕",
-        "Tới đi mùa hè, để Nga tỏa sáng! ⚡",
-        "Đừng quên nụ cười, vì mọi người đều chờ mong nó từ eim! 💫",
-        "Hum nay nhất định sẽ được thuiiiiii! 💖",
+        "Hè này mà fulltoping thì tuyeejttttt lunnnn! ⚡",
+        "Hè tới rùi, đi ăn thui mát lémmmmm! 💫",
+        "Ai mè xinh thía, Nga đóooooo! 💖",
     ];
     
     // Function to update the battery level
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
             createFireworks();
             
             // Change the recharge button to a "Done!" button
-            rechargeBtn.textContent = "Done!";
+            rechargeBtn.textContent = "Tuyệt zời!";
             rechargeBtn.classList.add("done-button");
             
             // Change the button functionality
@@ -202,14 +202,14 @@ document.addEventListener('DOMContentLoaded', function() {
         nextCard.classList.add('container', 'next-card');
         
         nextCard.innerHTML = `
-            <h1>Remember to Take Breaks!</h1>
+            <h1>Chè bớt ngọt đang đợi Ngaaa nhaaa!</h1>
             <div class="gif-container">
                 <img src="images/recharge.gif" alt="Recharging animation" class="recharge-gif">
             </div>
             <div class="reminder-message">
-                <p><em>Taking time to recharge is very important! Come back whenever you need a boost!</em></p>
+                <p><em>Trời có thể nắng, có thể mưa. Nhưng em xinh đẹp thì lun đúng òi</em></p>
             </div>
-            <button id="restart-btn">Recharge ⚡</button>
+            <button id="restart-btn">Xem lại khum... ⚡</button>
         `;
         
         // Add the new card to the page in the same position as the first
