@@ -14,14 +14,14 @@ document.addEventListener('DOMContentLoaded', function() {
     // Encouraging messages that will appear randomly - expanded collection
     const encouragements = [
         "Nga cười điiii! Nga xinh đẹpppp! 💪",
-        "Mỗi làn em cười, hoa đều theo nở đóooo! 😊",
-        "Ngày mới tới, vì eimmmm 🌸",
+        "Mỗi lần em cười, hoa đều theo nở đóooo! 😊",
+        "Ngày mới tới, thật thoải mái nhaaa 🌸",
         "Hôm nay đi ăn chè nhaaaaa! ✨",
         "Chỉ cần em muốn đi đâu cũng được nhaaa! 🌟",
-        "Chè bớt ngọt ngon lesmmmm, đi khum! 🌈",
+        "Chè bớt ngọt ngon lémmmm, đi khum! 🌈",
         "Người ta bảo Trái đất quay quanh mặt trời, thế thì Mặt Trời quay quanh Ngaaaaaa! 💕",
         "Hè này mà fulltoping thì tuyệttttt lunnnn! ⚡",
-        "Hè tới rùi, đi ăn thui mát lémmmmm! 💫",
+        "Hè tới rùi, đi ăn chè thui mát lémmmmm! 💫",
         "Ai mè xinh thía, Nga đóooooo! 💖",
     ];
     
