@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "Chỉ cần em muốn đi đâu cũng được nhaaa! 🌟",
         "Chè bớt ngọt ngon lesmmmm, đi khum! 🌈",
         "Người ta bảo Trái đất quay quanh mặt trời, thế thì Mặt Trời quay quanh Ngaaaaaa! 💕",
-        "Hè này mà fulltoping thì tuyeejttttt lunnnn! ⚡",
+        "Hè này mà fulltoping thì tuyệttttt lunnnn! ⚡",
         "Hè tới rùi, đi ăn thui mát lémmmmm! 💫",
         "Ai mè xinh thía, Nga đóooooo! 💖",
     ];
