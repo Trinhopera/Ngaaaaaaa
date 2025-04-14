@@ -13,16 +13,16 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Encouraging messages that will appear randomly - expanded collection
     const encouragements = [
-        "You're doing amazing! Keep going! 💪",
-        "Your smile lights up my day! 😊",
-        "Taking breaks is part of being productive! 🌸",
-        "You bring joy to everyone around you! ✨",
-        "You've got this! I know you can do it! 🌟",
-        "Every day seeing you texting me is a bright day! 🌈",
-        "You deserve all the happiness in the world! 💕",
-        "Your energy is contagious! ⚡",
-        "Never forget how incredible you are! 💫",
-        "You make the world a better place just by being you! 💖",
+        "Nga cười điiii! Nga xinh đẹpppp! 💪",
+        "Mỗi làn em cười, hoa đều theo nở đóooo! 😊",
+        "Ngày mới tới, vì eimmmm 🌸",
+        "Hôm nay đi ăn chè nhaaaaa! ✨",
+        "Chỉ cần em muốn đi đâu cũng được nhaaa! 🌟",
+        "Mỗi ngày chỉ cần em vuiiiiii! 🌈",
+        "Người ta bảo Trái đất quay quanh mặt trời, thế thì Mặt Trời quay quanh Ngaaaaaa! 💕",
+        "Tới đi mùa hè, để Nga tỏa sáng! ⚡",
+        "Đừng quên nụ cười, vì mọi người đều chờ mong nó từ eim! 💫",
+        "Hum nay nhất định sẽ được thuiiiiii! 💖",
     ];
     
     // Function to update the battery level
